@@ -1,0 +1,14 @@
+[
+  {
+    "package": "c2d4u.tools",
+    "oncran": true
+  },
+  {
+    "package": "Rip46",
+    "oncran": true
+  },
+  {
+    "package": "stackoverflow",
+    "oncran": true
+  }
+]

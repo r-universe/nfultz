@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "c2d4u.tools"]
+	path = c2d4u.tools
+	url = https://github.com/nfultz/c2d4u.tools
+	shallow = true
+	registered = true
+[submodule "Rip46"]
+	path = Rip46
+	url = https://github.com/nfultz/rip46
+	shallow = true
+	registered = true
+[submodule "stackoverflow"]
+	path = stackoverflow
+	url = https://github.com/nfultz/stackoverflow
+	shallow = true
+	registered = true
